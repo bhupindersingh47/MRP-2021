@@ -10,7 +10,7 @@ of open data offered by the NASA POWER Project and the US Drought Monitor was co
 characteristics and points of interest. Following this, the dataset was preprocessed to generate suitable feature and 
 response matrices for machine learning. Four regression analysis algorithms namely K Nearest Neighbors, Decision 
 Tree, Random Forest, and Support Vector Regression were trained to predict the drought scores and were evaluated 
-using the R2, MAE, MSE and RMSE metrics. Random Forest was found to be the best model considering all evaluation 
+using the R<sup>2</sup>, MAE, MSE and RMSE metrics. Random Forest was found to be the best model considering all evaluation 
 metrics and run-time. The results show that suitable meteorological data indicators can be used to predict drought 
 susceptibility with reasonable accuracy.
 
