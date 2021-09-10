@@ -2,7 +2,6 @@
 
 
 
-## ABSTRACT
 Global temperatures have unequivocally become hotter, and hotter conditions lead to extreme weather—including 
 severe drought. Regionally, the driest parts of the earth are getting drier. This research aims to investigate if droughts 
 in the US could be predicted using meteorological data alone. First, an exploratory analysis of the dataset comprised 
