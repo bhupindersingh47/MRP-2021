@@ -1,6 +1,7 @@
 # Predicting Drought Susceptibility in the US using Meteorological data.
 
 
+
 ## ABSTRACT
 Global temperatures have unequivocally become hotter, and hotter conditions lead to extreme weather—including 
 severe drought. Regionally, the driest parts of the earth are getting drier. This research aims to investigate if droughts 
@@ -14,7 +15,12 @@ metrics and run-time. The results show that suitable meteorological data indicat
 susceptibility with reasonable accuracy.
 
 
+
 ### Key words:
 Meteorology, Climate Change, Regression, Drought, Random Forest, Decision Tree, Support Vector Regression, KNN
 
 
+
+### Data for this project is acquired from Kaggle [Predict Droughts using Weather & Soil Data | Kaggle](https://www.kaggle.com/cdminix/us-drought-meteorological-data). 
+#### This dataset is provided by Christoph Minixhofer, and has been compiled using the open data offered by the NASA POWER Project and the authors of the US Drought Monitor. 
+#### This dataset has a CC0: Public Domain license.
