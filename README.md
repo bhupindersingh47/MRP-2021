@@ -22,4 +22,4 @@ Meteorology, Climate Change, Regression, Drought, Random Forest, Decision Tree, 
 
 ### Data:
 Data for this project has been acquired from Kaggle: [Predict Droughts using Weather & Soil Data](https://www.kaggle.com/cdminix/us-drought-meteorological-data). 
-This dataset is provided by Christoph Minixhofer, and has been compiled using the open data offered by the NASA POWER Project and the authors of the US Drought Monitor. This dataset has a CC0: Public Domain license.
+This dataset is provided by Christoph Minixhofer, and has been compiled using open data offered by the NASA POWER Project and the authors of the US Drought Monitor. This dataset has a CC0: Public Domain license.
