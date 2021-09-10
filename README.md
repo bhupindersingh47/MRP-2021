@@ -1,4 +1,4 @@
-# Predicting Drought Susceptibility in the US using Meteorological data.
+## Predicting Drought Susceptibility in the US using Meteorological data.
 
 
 
@@ -17,6 +17,7 @@ susceptibility with reasonable accuracy.
 
 ### Key words:
 Meteorology, Climate Change, Regression, Drought, Random Forest, Decision Tree, Support Vector Regression, KNN
+
 
 
 ### Data:
