@@ -1,7 +1,5 @@
 ## Predicting Drought Susceptibility in the US using Meteorological data.
 
-
-
 Global temperatures have unequivocally become hotter, and hotter conditions lead to extreme weather—including 
 severe drought. Regionally, the driest parts of the earth are getting drier. This research aims to investigate if droughts 
 in the US could be predicted using meteorological data alone. First, an exploratory analysis of the dataset comprised 
@@ -13,12 +11,8 @@ using the R<sup>2</sup>, MAE, MSE and RMSE metrics. Random Forest was found to b
 metrics and run-time. The results show that suitable meteorological data indicators can be used to predict drought 
 susceptibility with reasonable accuracy.
 
-
-
 ### Key words:
 Meteorology, Climate Change, Regression, Drought, Random Forest, Decision Tree, Support Vector Regression, KNN
-
-
 
 ### Data:
 Data for this project has been acquired from Kaggle: [Predict Droughts using Weather & Soil Data](https://www.kaggle.com/cdminix/us-drought-meteorological-data). 
